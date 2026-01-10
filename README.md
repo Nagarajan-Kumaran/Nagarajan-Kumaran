@@ -5,11 +5,9 @@
 
 - 👯 I’m looking to collaborate on **Linux Automation Scripts**
 
-- 💬 Ask me about **- 🌐 Networking & Firewalls (FortiGate, Routing, VPN) - 🪟 Windows Server & Active Directory (AD DS, DNS, DHCP, GPO) - ☁️ Microsoft 365 Administration (Users, Licenses, Exchange, Security) - 🖥️ Hardware & Desktop Support (Troubleshooting, Repair) - 📱 Mobile Operating Systems (Android & iOS ) Python**
+- 💬 Ask me about **- 🌐 Networking & Firewalls (FortiGate, Routing, VPN) - 🪟 Windows Server & Active Directory (AD DS, DNS, DHCP, GPO) - ☁️ Microsoft 365 Administration (Users, Licenses, Exchange, Security) - 🖥️ Hardware & Desktop Support (Troubleshooting, Repair) - 📱 Mobile Operating Systems (Android & iOS ) -  Python Scripting & Shell Scripting**
 
-- ⚡ Fun fact **I'm not Funny at all**
-
-<h3 align="left">Connect with me:</h3>
+- ⚡ Fun fact **No fun only Facts**
 <p align="left">
 </p>
 

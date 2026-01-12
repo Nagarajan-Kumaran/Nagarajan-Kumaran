@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nagarajan Kumaran</h1>
 <h3 align="center">🔧 Technical Support Engineer | Network & System Enthusiast 🖥️ Windows • Linux • Hardware Troubleshooting 🌐 Networking • Firewalls • Virtual Labs 🚩 CTF Player • Security Learner</h3>
 
-- 🔭 I’m currently working on **System Administrator**
+- 🔭 I’m currently working as **System Administrator**
 
 - 👯 I’m looking to collaborate on **Linux Automation Scripts**
 
